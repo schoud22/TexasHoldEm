@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/PokerTableBackground.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/Character Face.jpg</file>
+        <file>images/Bender_(Shiny_Metal).jpg</file>
+        <file>images/b2fv.gif</file>
+        <file>images/c2.gif</file>
+        <file>images/c3.gif</file>
+        <file>images/c4.gif</file>
+        <file>images/c5.gif</file>
+        <file>images/c6.gif</file>
+        <file>images/c7.gif</file>
+        <file>images/c8.gif</file>
+        <file>images/c9.gif</file>
+        <file>images/cA.gif</file>
+        <file>images/cJ.gif</file>
+        <file>images/cK.gif</file>
+        <file>images/cQ.gif</file>
+        <file>images/d2.gif</file>
+        <file>images/d3.gif</file>
+        <file>images/d4.gif</file>
+        <file>images/d5.gif</file>
+        <file>images/d6.gif</file>
+        <file>images/d7.gif</file>
+        <file>images/d8.gif</file>
+        <file>images/d9.gif</file>
+        <file>images/dA.gif</file>
+        <file>images/dJ.gif</file>
+        <file>images/dK.gif</file>
+        <file>images/dQ.gif</file>
+        <file>images/h2.gif</file>
+        <file>images/h3.gif</file>
+        <file>images/h4.gif</file>
+        <file>images/h5.gif</file>
+        <file>images/h6.gif</file>
+        <file>images/h7.gif</file>
+        <file>images/h8.gif</file>
+        <file>images/h9.gif</file>
+        <file>images/hA.gif</file>
+        <file>images/hJ.gif</file>
+        <file>images/hK.gif</file>
+        <file>images/hQ.gif</file>
+        <file>images/s2.gif</file>
+        <file>images/s3.gif</file>
+        <file>images/s4.gif</file>
+        <file>images/s5.gif</file>
+        <file>images/s6.gif</file>
+        <file>images/s7.gif</file>
+        <file>images/s8.gif</file>
+        <file>images/s9.gif</file>
+        <file>images/sA.gif</file>
+        <file>images/sJ.gif</file>
+        <file>images/sK.gif</file>
+        <file>images/sQ.gif</file>
+        <file>images/PokerChips.jpg</file>
+        <file>images/PokerTable.jpg</file>
+        <file>images/cT.gif</file>
+        <file>images/dT.gif</file>
+        <file>images/hT.gif</file>
+        <file>images/sT.gif</file>
+        <file>images/PokerBackground.jpg</file>
+        <file>images/Poker Soundtrack trim.mp3</file>
+    </qresource>
+</RCC>
